@@ -1,0 +1,47 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Portfolio Builder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-02 12:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.4; wp-5.8.2\n"
+"X-Domain: swp-portfolio"
+
+#. URI of the plugin
+msgid "https://solverwp.com/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/solverwp/portfolio"
+msgstr ""
+
+#: inc/functions.php:40
+msgid "No Post Found"
+msgstr ""
+
+#. Name of the plugin
+msgid "Portfolio Builder"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Portfolio Builder - Elementor Portfolio Addon is a fully responsive plugin "
+"that display your company or personal portfolio/ Gallery items. From admin "
+"panel you can easily add your portfolio items. It has widget included with "
+"carousel,Isotope,Masonary, Tab, Grid with different settings how many want "
+"to display total or  at a time and many more. It has the different custom "
+"Project URL, features, video url and many more."
+msgstr ""
+
+#. Author of the plugin
+msgid "SolverWP"
+msgstr ""
